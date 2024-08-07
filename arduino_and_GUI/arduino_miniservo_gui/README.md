@@ -72,7 +72,7 @@ void loop() {
    ```
    cd path\to\your\project
    ```
-4. Create a new Python file named `servo_control_gui.py`:
+4. Create a new Python file named `gui_arduino_miniservo.py`:
    ```
    notepad servo_control_gui.py
    ```
@@ -157,7 +157,7 @@ root.mainloop()
 6. Save the file and close Notepad.
 7. Run the script:
    ```
-   python servo_control_gui.py
+   python gui_arduino_miniservo.py
    ```
 
 ## Usage
