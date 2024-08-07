@@ -74,7 +74,7 @@ void loop() {
    ```
 4. Create a new Python file named `gui_arduino_miniservo.py`:
    ```
-   notepad servo_control_gui.py
+   notepad gui_arduino_miniservo.py
    ```
 5. Copy and paste the following code into the file:
 
